@@ -1,0 +1,188 @@
+{
+"Name": "ETH Zurich",
+"rank": 7,
+"children": [
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "Namo Media",
+    "Location": "San Francisco",
+    "Website": "http://www.namomedia.com",
+    "value": 51875000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "Xobni",
+    "Location": "San Francisco",
+    "Website": "http://www.xobni.com",
+    "value": 41752000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "Splunk",
+    "Location": "San Francisco",
+    "Website": "http://www.splunk.com/",
+    "value": 40000000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "Asana",
+    "Location": "San Francisco",
+    "Website": "http://www.asana.com",
+    "value": 38200000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "Loggly",
+    "Location": "San Francisco",
+    "Website": "http://www.loggly.com/",
+    "value": 33370000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "Nvidia",
+    "Location": "Santa Clara, CA",
+    "Website": "http://www.nvidia.com",
+    "value": 25000000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "Tantalus Systems Corp., Vancouver, B.C., Canada",
+    "Location": "Raleigh",
+    "Website": "http://www.tantalus.com",
+    "value": 21600000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "Thalmic Labs",
+    "Location": "Waterloo",
+    "Website": "http://www.thalmic.com",
+    "value": 15600000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "Vendavo",
+    "Location": "Palo Alto",
+    "Website": "http://www.vendavo.com/",
+    "value": 15000000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "TandemLaunch",
+    "Location": "Montreal",
+    "Website": "http://www.tandemlaunch.com",
+    "value": 14700000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "Button",
+    "Location": "New York City",
+    "Website": "http://usebutton.com/",
+    "value": 14250000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "Siemens",
+    "Location": "Munich",
+    "Website": "http://www.siemens.com",
+    "value": 8900000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "Yahoo",
+    "Location": "Sunnyvale",
+    "Website": "http://www.yahoo.com",
+    "value": 6800000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "eBay",
+    "Location": "San Jose",
+    "Website": "http://www.ebay.com",
+    "value": 6700000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "OpenSignal",
+    "Location": "London",
+    "Website": "http://opensignal.com",
+    "value": 5300000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "Yandex",
+    "Location": "Moscow",
+    "Website": "http://www.yandex.ru/",
+    "value": 5300000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "RoundPegg",
+    "Location": "Boulder",
+    "Website": "http://roundpegg.com",
+    "value": 4826042
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "AirHelp",
+    "Location": "New York City",
+    "Website": "http://www.getairhelp.com",
+    "value": 4700000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "Raytheon",
+    "Location": "Waltham",
+    "Website": "http://www.raytheon.com",
+    "value": 3000000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "ABB",
+    "Location": "Zurich",
+    "Website": "http://www.abb.com/",
+    "value": 2700000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "Archilogic",
+    "Location": "Zurich",
+    "Website": "http://www.archilogic.com",
+    "value": 2500000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "General Electric",
+    "Location": "Fairfield, CT",
+    "Website": "http://www.ge.com",
+    "value": 2000000
+  },
+  {
+    "College_ID": 8,
+    "College": "ETH Zurich",
+    "Name": "Empire Robotics",
+    "Location": "Boston",
+    "Website": "http://www.empirerobotics.com",
+    "value": 1796000
+  }]}

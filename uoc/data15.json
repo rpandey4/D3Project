@@ -1,0 +1,700 @@
+{
+"Name": "University of Chicago" ,
+"rank": 8,
+"children": [
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "FeeFighters",
+    "Location": "Palo Alto",
+    "Website": "http://feefighters.com",
+    "value": 1525000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Remark",
+    "Location": "Shenzhen",
+    "Website": "http://www.getremark.com",
+    "value": 1500000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Strikingly",
+    "Location": "Sunnyvale",
+    "Website": "http://strikingly.com",
+    "value": 1500000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Guide",
+    "Location": "Miami",
+    "Website": "http://twitter.com/guide",
+    "value": 1500000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Prompt.ly",
+    "Location": "San Francisco",
+    "Website": "http://www.prompt.ly",
+    "value": 1500000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Tylr Mobile",
+    "Location": "San Mateo",
+    "Website": "http://www.tylrmobile.com",
+    "value": 1500000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Ordrx (fka Ordr.in)",
+    "Location": "New York City",
+    "Website": "http://www.ordrx.com",
+    "value": 1398000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Recursion Pharma",
+    "Location": "Salt Lake City",
+    "Website": "http://www.recursionpharma.com",
+    "value": 1380000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "KeyNexus",
+    "Location": "Silicon Valley",
+    "Website": "http://www.keynexus.com",
+    "value": 1300000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Bitfinder",
+    "Location": "San Francisco",
+    "Website": "http://bitfinder.co",
+    "value": 1280000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Digital H2O",
+    "Location": "Chicago",
+    "Website": "http://www.digitalh2o.com",
+    "value": 1275000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "SimpleRelevance",
+    "Location": "Chicago",
+    "Website": "http://www.simplerelevance.com",
+    "value": 1268000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Wonder",
+    "Location": "San Francisco",
+    "Website": "http://www.wonderapp.com",
+    "value": 1245000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Seed&Spark",
+    "Location": "San Francisco",
+    "Website": "http://www.seedandspark.com",
+    "value": 1235000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Caterva",
+    "Location": "Chicago",
+    "Website": "http://caterva.com",
+    "value": 1200000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Iterable",
+    "Location": "San Francisco",
+    "Website": "http://iterable.com",
+    "value": 1200000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Shopline",
+    "Location": "Hong Kong",
+    "Website": "http://www.shoplineapp.com",
+    "value": 1200000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Branching Minds",
+    "Location": "New York City",
+    "Website": "http://branchingminds.com",
+    "value": 1170000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "SpokenLayer",
+    "Location": "New York City",
+    "Website": "http://www.spokenlayer.com",
+    "value": 1146500
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Everlane",
+    "Location": "San Francisco",
+    "Website": "http://everlane.com",
+    "value": 1100000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "MobileDevHQ",
+    "Location": "Seattle",
+    "Website": "http://www.mobiledevhq.com",
+    "value": 1050000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "CakeStyle",
+    "Location": "United States",
+    "Website": "http://www.cakestyle.com",
+    "value": 1050000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "GRAYL",
+    "Location": "Seattle",
+    "Website": "http://www.thegrayl.com",
+    "value": 1010000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "ReTel Technologies",
+    "Location": "San Francisco",
+    "Website": "http://www.reteltechnologies.com",
+    "value": 1000000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Fashion Metric",
+    "Location": "Austin",
+    "Website": "http://www.FashionMetric.com",
+    "value": 1000000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Bridgecrest Medical",
+    "Location": "San Francisco",
+    "Website": "http://www.bridgecrestmed.com",
+    "value": 1000000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Priori Data",
+    "Location": "Berlin",
+    "Website": "http://prioridata.com/",
+    "value": 1000000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "ContactUs.com",
+    "Location": "Chicago",
+    "Website": "http://www.contactus.com",
+    "value": 1000000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Matter.io",
+    "Location": "New York City",
+    "Website": "http://www.matter.io",
+    "value": 900000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "ISI Technology",
+    "Location": "Charleston",
+    "Website": "http://www.isitechnology.com",
+    "value": 850000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "tapTrak",
+    "Location": "New York City",
+    "Website": "http://taptrak.com",
+    "value": 780000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "CityPockets",
+    "Location": "New York City",
+    "Website": "http://www.CityPockets.com",
+    "value": 770000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "The World Table",
+    "Location": "Orem",
+    "Website": "http://worldtable.co",
+    "value": 750000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "NudgeRx",
+    "Location": "Redmond",
+    "Website": "http://www.nudgerx.com",
+    "value": 710000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Strongbark",
+    "Location": "Chicago",
+    "Website": "http://strongbark.com",
+    "value": 700000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Toggle",
+    "Location": "Los Angeles",
+    "Website": "http://toggletv.com",
+    "value": 700000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Cerora",
+    "Location": "Bethlehem, PA",
+    "Website": "http://www.cerora.com",
+    "value": 655000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Thrively",
+    "Location": "Los Angeles",
+    "Website": "http://www.thrively.com",
+    "value": 615000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Porter & Sail",
+    "Location": "New York City",
+    "Website": "http://porterandsail.com",
+    "value": 611800
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Three Melons",
+    "Location": "Buenos Aires",
+    "Website": "http://www.threemelons.com",
+    "value": 600000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Foxtrot",
+    "Location": "Chicago",
+    "Website": "http://foxtrotco.com",
+    "value": 600000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "H/F Next Fund",
+    "Location": "Mountain View",
+    "Website": "http://hf.cx/invest",
+    "value": 575000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Hackers/Founders",
+    "Location": "Silicon Valley",
+    "Website": "http://hf.cx/coop",
+    "value": 575000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Dash",
+    "Location": "New York City",
+    "Website": "http://www.dashmobile.co",
+    "value": 500000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "SweatGuru",
+    "Location": "San Francisco",
+    "Website": "http://sweatguru.com",
+    "value": 500000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Empeopled",
+    "Location": "Chicago",
+    "Website": "http://www.empeopled.com",
+    "value": 500000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "OFI.com.co",
+    "Location": "Bogota",
+    "Website": "http://www.ofi.com.co/",
+    "value": 500000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Rowheels",
+    "Location": "Madison",
+    "Website": "http://rowheels.com",
+    "value": 450000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Reindeer Casino",
+    "Location": "San Francisco",
+    "Website": "http://reindeercasino.co",
+    "value": 400000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "TreveriMarket SA",
+    "Location": "Luxemburg",
+    "Website": "http://www.treverimarket.com",
+    "value": 400000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Freenters",
+    "Location": "Chicago",
+    "Website": "http://www.freenters.com",
+    "value": 395000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Folsom Labs",
+    "Location": "San Francisco",
+    "Website": "http://www.folsomlabs.com",
+    "value": 350000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Jurify",
+    "Location": "Dallas",
+    "Website": "http://www.jurify.com",
+    "value": 325000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Food Sprout",
+    "Location": "San Francisco",
+    "Website": "http://www.foodsprout.com",
+    "value": 300000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Symptomly",
+    "Location": "Salt Lake City",
+    "Website": "http://symptomly.com",
+    "value": 300000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Cubii",
+    "Location": "Chicago",
+    "Website": "http://www.mycubii.com",
+    "value": 293000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Rentalutions",
+    "Location": "Chicago",
+    "Website": "http://rentalutions.com",
+    "value": 287500
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Lightpoint Medical",
+    "Location": "London",
+    "Website": "http://lightpointmedical.com",
+    "value": 275000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "LiftDNA",
+    "Location": "New York City",
+    "Website": "http://www.liftdna.com",
+    "value": 250000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "NaturalPath Media",
+    "Location": "San Francisco",
+    "Website": "http://www.saymedia.com",
+    "value": 250000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "MinorityFinance",
+    "Location": "Washington, DC",
+    "Website": "http://www.minorityfinance.com",
+    "value": 250000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Shoto",
+    "Location": "San Francisco",
+    "Website": "http://shoto.com",
+    "value": 250000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "DonorPath",
+    "Location": "Chicago",
+    "Website": "http://donorpath.co",
+    "value": 250000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Sonic Payments",
+    "Location": "San Francisco",
+    "Website": "https://sonicpayments.com",
+    "value": 250000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "eGenius Founders",
+    "Location": "Sao Paulo",
+    "Website": "http://www.egenius.com.br",
+    "value": 250000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Greenzorro",
+    "Location": "London",
+    "Website": "http://www.greenzorro.com",
+    "value": 200000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "pingwell",
+    "Location": "Palo Alto",
+    "Website": "http://www.pingwell.com",
+    "value": 175000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "MortgageHippo",
+    "Location": "Chicago",
+    "Website": "http://www.mortgagehippo.com",
+    "value": 150000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Azadi",
+    "Location": "New Delhi",
+    "Website": "http://www.azadi.co.in",
+    "value": 145000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "FaniMani",
+    "Location": "Poland",
+    "Website": "http://www.fanimani.pl",
+    "value": 115000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Plutora",
+    "Location": "Mountain View",
+    "Website": "http://www.plutora.com",
+    "value": 100000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Kili",
+    "Location": "Nairobi",
+    "Website": "http://kili.io",
+    "value": 100000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "odd things",
+    "Location": "Hong Kong",
+    "Website": "http://www.theoddthings.com",
+    "value": 100000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "ApplyMap",
+    "Location": "Santa Monica",
+    "Website": "http://www.applymap.com",
+    "value": 90000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Prova Systems & Technologies",
+    "Location": "Carbondale, PA",
+    "Website": "http://www.fleet-genius.com",
+    "value": 85000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "WeClickd",
+    "Location": "Chicago",
+    "Website": "http://www.weclickd.com",
+    "value": 70000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "iBroadcast.tv",
+    "Location": "San Francisco",
+    "Website": "http://ibroadcast.tv",
+    "value": 65000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Akinte (Parsecco)",
+    "Location": "Chicago",
+    "Website": "http://akinte.com",
+    "value": 65000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "GlucoSentient",
+    "Location": "Champaign",
+    "Website": 0,
+    "value": 60000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Creative Action Network",
+    "Location": "San Francisco",
+    "Website": "http://thecreativeactionnetwork.com/",
+    "value": 55000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Tyche",
+    "Location": "San Francisco",
+    "Website": "http://tycherisk.co",
+    "value": 44000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Pictorious",
+    "Location": "New York City",
+    "Website": "http://www.pictorious.com",
+    "value": 25000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Reliefwatch",
+    "Location": "Chicago",
+    "Website": "http://www.reliefwatch.com",
+    "value": 25000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Incentfit",
+    "Location": "New York City",
+    "Website": "http://incentfit.com",
+    "value": 20000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "MatriWish",
+    "Location": "Milan",
+    "Website": "http://www.matriwish.com",
+    "value": 20000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "Neuroscout",
+    "Location": "New York City",
+    "Website": "http://www.neuroscout.com",
+    "value": 10000
+  },
+  {
+    "College_ID": 9,
+    "College": "University of Chicago",
+    "Name": "QBoard",
+    "Location": "Los Angeles",
+    "Website": "http://qboard.net",
+    "value": 10000
+  }]}

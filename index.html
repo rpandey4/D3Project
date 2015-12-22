@@ -1,7 +1,274 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+  <!DOCTYPE html>
+  <html xmlns:xlink="http://www.w3.org/1999/xlink">
+  <meta charset="utf-8">
+  <head>
+    <script src="http://d3js.org/d3.v3.min.js">
+    </script>
+    <script src="http://colorbrewer2.org/export/colorbrewer.js">
+    </script>
+    <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js">
+    </script>
+    <style type="text/css">
+    .arc text {
+      font: 10px sans-serif;
+      text-anchor: middle;
+    }
+    #ramun{
+      display: table-cell;
+    text-align: left;
+    vertical-align: middle;
+    horizontal-align: middle;
+    height: 500px;
+    font-family: 'Segoe UI Light', 'Helvetica Neue Light', 'Segoe UI', 'Helvetica Neue', 'Trebuchet MS', Verdana;
+    font-weight: 200;
+    font-size: 24px;
+    }
+    .arc path {
+      stroke: #fff;
+    }
+
+    .d3-tip {
+      line-height: 1;
+      font-weight: bold;
+      padding: 12px;
+      background: rgba(0, 0, 0, 0.8);
+      color: #fff;
+      border-radius: 2px;
+    }
+    .area:hover {
+      fill: yellow;
+    }
+
+    </style>
+    <title>Dashboard: Top 10 Universities Analysis: Papers and Startups</title>
+    <link rel="stylesheet" type="text/css" href="assets/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/keen-dashboards.css" />
+  </head>
+  <body class="application">
+
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <!-- <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../">
+            <span class="glyphicon glyphicon-chevron-left"></span>
+          </a> -->
+          <a class="navbar-brand" href="./">Dashboard: Top 10 Universities Analysis: Papers and Startups</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-left">
+            <!-- <li><a href="https://keen.io">Home</a></li>
+            <li><a href="https://keen.io/team">Team</a></li>
+            <li><a href="https://github.com/keenlabs/dashboards/tree/gh-pages/layouts/two-and-one">Source</a></li>
+            <li><a href="https://groups.google.com/forum/#!forum/keen-io-devs">Community</a></li><li><a href="http://stackoverflow.com/questions/tagged/keen-io?sort=newest&pageSize=15">Technical Support</a></li> -->
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row">
+
+        <div class="col-sm-6">
+          <div class="chart-wrapper" >
+            <div class="chart-title">
+            <strong>Top 10 university Paper Citations(Click to view paper) Source: Google Scholar</strong> 
+            </div>
+  <div id="ram"></div>
+  <!-- <div class="chart-notes">
+    MIT Startups Data
+  </div> -->
+</div>
+</div>
+
+<div class="col-sm-6">
+  <div class="chart-wrapper">
+    <div class="chart-title">
+      
+      <strong>Top 10 university Startups (Hover for name and click for detailed visualized startups) Source: Angel.co</strong> 
+    </div>
+    <div class="chart-stage">
+      <div id="ramun"></div>
+    </div>
+    <!-- <div class="chart-notes">
+    MIT Startups Data
+  </div> -->
+  </div>
+</div>
+
+</div>
+
+
+<div class="row">
+
+  <!-- <div class="col-sm-12">
+    <div class="chart-wrapper">
+      <div class="chart-title">
+        Impressions by advertiser
+      </div>
+      <div class="chart-stage">
+        
+      </div>
+      <div class="chart-notes">
+        Notes go down here
+      </div>
+    </div>
+  </div> -->
+
+</div>
+
+<hr>
+
+<!-- <p class="small text-muted">Built with &#9829; by <a href="https://keen.io">Keen IO</a></p>
+ -->
+</div>
+
+<script type="text/javascript" src="../../assets/lib/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="../../assets/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="../../assets/lib/holderjs/holder.js"></script>
+<script>
+Holder.add_theme("white", { background:"#fff", foreground:"#a7a7a7", size:10 });
+</script>
+
+<script type="text/javascript" src="../../assets/lib/keen-js/dist/keen.min.js"></script>
+<script type="text/javascript" src="../../assets/js/meta.js"></script>
+
 </body>
+<script>
+
+var width = 960,
+    height = 510,
+    radius = Math.min(width, height) / 2;
+
+var p=d3.scale.category10();
+var r=p.range();
+var s=d3.scale.ordinal().range(r);
+
+
+
+var color = d3.scale.ordinal()
+    .domain([0,1,2,3,4,5,6,7,8,9])
+    .range(["#1f77b4", "#17becf", "#ff7f0e", "#2ca02c", " #d62728", " #9467bd", "#8c564b", "#e377c2", "#7f7f7f", "#bcbd22"]);
+
+var arc = d3.svg.arc()
+    .outerRadius(radius - 10)
+    .innerRadius(radius - 70);
+
+var pie = d3.layout.pie()
+    .sort(null)
+    .value(function(d) { return 10-d.Rank; });
+
+var svg = d3.select("#ramun").append("svg")
+    .attr("width", width)
+    .attr("height", height)
+  .append("g")
+    .attr("transform", "translate(" + width / 3 + "," + height/2 + ")");
+
+d3.csv("rank.csv", type, function(error, data) {
+  if (error) throw error;
+  var tip = d3.tip()
+        .attr('class', 'd3-tip')
+        .offset([30, 0])
+        .html(function(d) {
+          return d.data.Name;
+        });
+  svg.call(tip);
+  var g = svg.selectAll(".arc")
+      //.data(pie(data))
+    .data(pie(data))
+    .enter().append("g")
+      .attr("class", "arc");
+  
+  g.append("a")
+      .attr("xlink:href", function(d){return "./"+d.data.id+"/index.html"})
+      .attr("target", "blank")
+      .append("path")
+      .attr("d", 50)
+      .attr("target", "blank")
+      .style("fill", function(d) { return color(d.data.Rank); })
+      .on('mouseover', tip.show)
+      .on('mouseout', tip.hide)
+      .transition()
+      .duration(3000)
+      .attr("d", arc);
+
+});
+
+function type(d) {
+  d.Rank  = +d.Rank;
+  return d;
+}
+
+</script>
+<script>
+
+input="data5.json";
+var width = 800,
+    height = 515;
+var canvas = d3.select("#ram").append("svg")
+    .attr("width", width)
+    .attr("height", height)
+  .append("g")
+    .attr("transform", "translate(-80, 50)");
+var pack=d3.layout.pack()
+    .size([width, height-50])
+    .sort(d3.descending)
+    .padding(10);
+var MouseHovering = function() 
+        {
+          var ar = d3.select(this);
+          //ar.attr("fill", "orange" );
+          //d3.select(".displaybox").style("display", "block"); 
+          //d3.select("p").text("This circle has a radius of " + circle.attr("r") + " pixels.");
+        }
+var MouseOut = function() {
+    var circle = d3.select(this);
+      //circle.attr("fill", "blue" );
+      //d3.select(".displaybox").style("display", "none");  
+  }
+
+var opac= d3.scale.linear()
+                .domain([0,400])
+                .range(["0.5","1"]);
+d3.json(input, function(data){
+  /**/
+  var nodes=pack.nodes(data);
+  console.log(nodes);
+  var node=canvas.selectAll(".node")
+      .data(nodes)
+      .enter()
+      /**/
+      .append("g")
+        .attr("class","node")
+
+        .attr("transform", function(d){return "translate("+d.x+","+d.y+")";});
+  var tip = d3.tip()
+        .attr('class', 'd3-tip')
+        .offset([-10, 0])
+        .html(function(d) {
+            return ""+d.Name+"\n | cited by "+Math.round(d.value*100);
+        });
+  canvas.call(tip);
+
+  node.append("a")
+    .attr("xlink:href", function(d){return d.Link;})
+    .attr("target", "blank")
+    .append("circle")
+      .attr("r", function(d){return d.r;})
+      .attr("fill", "steelblue")
+      .on('mouseover', tip.show)
+      .on('mouseout', tip.hide)
+      .attr("fill", function(d){return d.children ? "grey" : "white";})
+      .attr("opacity", function(d){return opac(d.value);})
+      .attr("stroke", "white")
+      .attr("stroke-width", 1);
+
+});
+</script>
 </html>

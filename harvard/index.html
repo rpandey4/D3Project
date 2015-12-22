@@ -1,0 +1,242 @@
+  <!DOCTYPE html>
+  <html xmlns:xlink="http://www.w3.org/1999/xlink">
+  <meta charset="utf-8">
+  <head>
+    <script src="http://d3js.org/d3.v3.min.js">
+    </script>
+    <script src="http://colorbrewer2.org/export/colorbrewer.js">
+    </script>
+    <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js">
+    </script>
+    <style type="text/css">
+    .arc text {
+      font: 10px sans-serif;
+      text-anchor: middle;
+    }
+    #ramun{
+      display: table-cell;
+    text-align: left;
+    vertical-align: upper;
+    horizontal-align: middle;
+    height: 500px;
+    font-family: 'Segoe UI Light', 'Helvetica Neue Light', 'Segoe UI', 'Helvetica Neue', 'Trebuchet MS', Verdana;
+    font-weight: 200;
+    font-size: 24px;
+    }
+    .arc path {
+      stroke: #fff;
+    }
+
+    .d3-tip {
+      line-height: 1;
+      font-weight: bold;
+      padding: 12px;
+      background: rgba(0, 0, 0, 0.8);
+      color: #fff;
+      border-radius: 2px;
+    }
+    .area:hover {
+      fill: yellow;
+    }
+
+    </style>
+    <title>Dashboard: Harvard University</title>
+    <link rel="stylesheet" type="text/css" href="assets/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/keen-dashboards.css" />
+  </head>
+  <body class="application">
+
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../index.html">
+            <span class="glyphicon glyphicon-chevron-left"></span>
+          </a>
+          <a class="navbar-brand" href="./">Harvard University</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-left">
+            <!-- <li><a href="https://keen.io">Home</a></li>
+            <li><a href="https://keen.io/team">Team</a></li>
+            <li><a href="https://github.com/keenlabs/dashboards/tree/gh-pages/layouts/two-and-one">Source</a></li>
+            <li><a href="https://groups.google.com/forum/#!forum/keen-io-devs">Community</a></li><li><a href="http://stackoverflow.com/questions/tagged/keen-io?sort=newest&pageSize=15">Technical Support</a></li> -->
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row">
+
+        <div class="col-sm-6">
+          <div class="chart-wrapper" >
+            <div class="chart-title">
+            <div id="ram"></div>
+            </div>
+  
+  <!-- <div class="chart-notes">
+    MIT Startups Data
+  </div> -->
+</div>
+</div>
+
+<div class="col-sm-6">
+  <div class="chart-wrapper">
+    <div class="chart-title">
+      
+      <strong>Startup Details(Hover for details and map and click for website)</strong> 
+    </div>
+    <div class="chart-stage">
+      <div id="ramun"><p>Name: <br>Location: <br>Funds: $</p></div>
+    </div>
+    <!-- <div class="chart-notes">
+    MIT Startups Data
+  </div> -->
+  </div>
+</div>
+
+</div>
+
+
+<div class="row">
+
+  <!-- <div class="col-sm-12">
+    <div class="chart-wrapper">
+      <div class="chart-title">
+        Impressions by advertiser
+      </div>
+      <div class="chart-stage">
+        
+      </div>
+      <div class="chart-notes">
+        Notes go down here
+      </div>
+    </div>
+  </div> -->
+
+</div>
+
+<hr>
+
+<!-- <p class="small text-muted">Built with &#9829; by <a href="https://keen.io">Keen IO</a></p>
+ -->
+</div>
+
+<script type="text/javascript" src="assets/lib/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="assets/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="assets/lib/holderjs/holder.js"></script>
+<script>
+Holder.add_theme("white", { background:"#fff", foreground:"#a7a7a7", size:10 });
+</script>
+
+<script type="text/javascript" src="assets/lib/keen-js/dist/keen.min.js"></script>
+<script type="text/javascript" src="assets/js/meta.js"></script>
+
+</body>
+<script type="text/javascript">
+            input="data16.json";
+             var MouseHovering = function() 
+            {
+              // tip.show;
+              var ar = d3.select(this);
+              d3.select("#ramun").style("display", "block"); 
+              d3.select("p").html("<div id=ramun>Name: "+ar.attr("Name")+"<br/> Location: "+ar.attr("Location")+"<br/> Funds: $"+ar.attr("value")+"<br/><iframe width='550' height='300' frameborder='0' style='border:0' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyCz7IJvhOQWHvYjbZXHuvzxYikHvue1P7Q&q="+ar.attr("Name")+"+"+ar.attr("Location")+"' allowfullscreen></iframe></div>");
+            //d3.select(".displaybox").style("display", "block"); 
+            //d3.select("p").text("This circle has a radius of " + circle.attr("r") + " pixels.");
+          }
+          var MouseOut = function() {
+            // tip.hide;
+            var circle = d3.select(this);
+            d3.select("#ramun").style("display", "block"); 
+              d3.select("p").html("<div id=ramun>Name: <br>Location: <br>Funds: $</div>");
+        //circle.attr("fill", "blue" );
+        //d3.select(".displaybox").style("display", "none");  
+      }
+      var mouseMoveFunc = function() {
+        
+        var displaybox = d3.select("#ramun");
+        
+        var coord = d3.svg.mouse(this)
+        displaybox.style("left", coord[0] + 15  + "px" );
+        displaybox.style("top", coord[1] + "px");
+      }
+            var width = 1200,
+            height =525;
+            var canvas = d3.select("#ram").append("svg:svg")
+            .attr("width", width)
+            .attr("height", height)
+            .append("g")
+            .attr("transform", "translate(-300,30)");
+            var pack=d3.layout.pack()
+            .size([width, height-50])
+            // .sort(d3.descending)
+            .padding(10);
+           
+      var color= d3.scale.linear()
+      .domain([9999999,100000000])
+      .range(["#17becf", "#042629"]);
+      var opac= d3.scale.linear()
+      .domain([9999999,100000000])
+      .range(["0.5","1"]);
+      d3.json(input, function(data){
+        /**/
+        var nodes=pack.nodes(data);
+        console.log(nodes);
+        var node=canvas.selectAll(".node")
+        .data(nodes)
+        .enter()
+        /**/
+        
+        .append("g")
+        .attr("class","node")
+        // .attr("transform", function(d){return "translate("+d.x+","+d.y+")";});
+        
+        .attr("transform", function(d){return "translate("+500+","+125+")";});
+        d3.selectAll(".node")
+          .transition()
+          .delay(2000)
+          .duration(8000)
+          .attr("transform", function(d){return "translate("+d.x+","+d.y+")";});
+        
+        // .delay(2000);
+        var tip = d3.tip()
+        .attr('class', 'd3-tip')
+        .offset([-10, 0])
+        .html(function(d) {
+          return d.children ? "" : ""+d.Name+"\n | Location: "+d.Location+" | Funds: $$"+d.value;
+        });
+        canvas.call(tip);
+
+        node.append("a")
+        .attr("xlink:href", function(d){return d.Website;})
+        .attr("target", "blank")
+        .append("circle")
+        .attr("r", function(d){return d.r;})
+        .attr("fill", "steelblue")
+        .attr("Name", function(d){return d.children ? "": d.Name;})
+        .attr("Location", function(d){return d.children ? "": d.Location;})
+        .attr("value", function(d){return d.children ? "": d.value;})
+        .on('mouseover', MouseHovering)
+        .on('mouseout', MouseOut)
+        // .on('mouseover', tip.show)
+        // .on('mouseout', tip.hide)
+        .attr("fill", function(d){return d.children ? "#fff" : color(d.value);})
+        .attr("opacity", function(d){return opac(d.value);})
+        .attr("stroke", function(d){return d.children ? "white" : "black";})
+        .attr("stroke-width", 1)
+
+        .transition()
+        .attr("r", function(d){return d.r*1.5;})
+        .delay(10000)
+        .duration(5000);
+
+      });
+  </script>
+</html>

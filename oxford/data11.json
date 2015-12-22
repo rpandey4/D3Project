@@ -1,0 +1,705 @@
+{
+  "Name": "University of Oxford",
+  "rank": 4,
+  "children": [
+  {
+
+    "Name": "Good&Co",
+    "Location": "San Francisco",
+    "Website": "http://good.co",
+    "value": 2168000
+  },
+  {
+
+    "Name": "Mendeley",
+    "Location": "London",
+    "Website": "http://www.mendeley.com",
+    "value": 2125000
+  },
+  {
+
+    "Name": "Crowdpac",
+    "Location": "Palo Alto",
+    "Website": "http://www.crowdpac.com",
+    "value": 2100000
+  },
+  {
+
+    "Name": "Triptease",
+    "Location": 0,
+    "Website": "http://www.triptease.com",
+    "value": 2040000
+  },
+  {
+
+    "Name": "AllTrails",
+    "Location": "San Francisco",
+    "Website": "http://alltrails.com",
+    "value": 2005000
+  },
+  {
+
+    "Name": "General Electric",
+    "Location": "Fairfield, CT",
+    "Website": "http://www.ge.com",
+    "value": 2000000
+  },
+  {
+
+    "Name": "FIGS",
+    "Location": "Los Angeles",
+    "Website": "http://www.wearfigs.com",
+    "value": 2000000
+  },
+  {
+
+    "Name": "Elliptic",
+    "Location": "London",
+    "Website": "http://elliptic.co",
+    "value": 2000000
+  },
+  {
+
+    "Name": "Zeus",
+    "Location": "San Francisco",
+    "Website": "http://www.zeusliving.com/",
+    "value": 1850000
+  },
+  {
+
+    "Name": "Signal Media",
+    "Location": "London",
+    "Website": "http://www.signal.uk.com",
+    "value": 1800000
+  },
+  {
+
+    "Name": "Rodin Therapeutics",
+    "Location": "Cambridge, MA",
+    "Website": "http://www.rodintherapeutics.com",
+    "value": 1700000
+  },
+  {
+
+    "Name": "Lexoo",
+    "Location": "London",
+    "Website": "http://www.lexoo.co.uk",
+    "value": 1700000
+  },
+  {
+
+    "Name": "3BaysOver",
+    "Location": "Switzerland",
+    "Website": "http://www.3baysover.com",
+    "value": 1675000
+  },
+  {
+
+    "Name": "Bloom & Wild",
+    "Location": "London",
+    "Website": "http://www.bloomandwild.com",
+    "value": 1650000
+  },
+  {
+
+    "Name": "Flyer",
+    "Location": "New York City",
+    "Website": "http://www.flyerapp.com",
+    "value": 1600000
+  },
+  {
+
+    "Name": "SoloPro",
+    "Location": "Durham",
+    "Website": "https://www.solopro.com",
+    "value": 1600000
+  },
+  {
+
+    "Name": "truBrain",
+    "Location": "Santa Monica",
+    "Website": "http://truBrain.com",
+    "value": 1580000
+  },
+  {
+
+    "Name": "gtrot",
+    "Location": "Chicago",
+    "Website": "http://www.gtrot.com",
+    "value": 1560000
+  },
+  {
+
+    "Name": "Alminder",
+    "Location": "Palo Alto",
+    "Website": "http://mynd.me",
+    "value": 1525000
+  },
+  {
+
+    "Name": "3LM",
+    "Location": 0,
+    "Website": "http://www.3LM.com",
+    "value": 1500000
+  },
+  {
+
+    "Name": "Wallaby Financial",
+    "Location": "Pasadena, CA",
+    "Website": "https://www.walla.by",
+    "value": 1500000
+  },
+  {
+
+    "Name": "Code for America",
+    "Location": "San Francisco",
+    "Website": "http://codeforamerica.org",
+    "value": 1500000
+  },
+  {
+
+    "Name": "Intelligent Ultrasound",
+    "Location": "Oxford",
+    "Website": "http://www.intelligentultrasound.com",
+    "value": 1440000
+  },
+  {
+
+    "Name": "Graze",
+    "Location": 0,
+    "Website": "http://www.graze.com",
+    "value": 1400000
+  },
+  {
+
+    "Name": "HireArt",
+    "Location": "New York City",
+    "Website": "http://www.hireart.com",
+    "value": 1400000
+  },
+  {
+
+    "Name": "Mopp.com",
+    "Location": "London",
+    "Website": "http://www.mopp.com",
+    "value": 1400000
+  },
+  {
+
+    "Name": "Lost My Name",
+    "Location": "London",
+    "Website": "http://www.lostmy.name/",
+    "value": 1400000
+  },
+  {
+
+    "Name": "WeArePopUp",
+    "Location": "London",
+    "Website": "http://www.wearepopup.com/",
+    "value": 1321000
+  },
+  {
+
+    "Name": "GroupSpaces",
+    "Location": "London",
+    "Website": "http://groupspaces.com",
+    "value": 1300000
+  },
+  {
+
+    "Name": "Newsvine",
+    "Location": "Seattle",
+    "Website": "http://www.newsvine.com/",
+    "value": 1250000
+  },
+  {
+
+    "Name": "Decision Fuel",
+    "Location": "Hong Kong",
+    "Website": "http://www.decision-fuel.com",
+    "value": 1250000
+  },
+  {
+
+    "Name": "Brainscape",
+    "Location": "New York City",
+    "Website": "http://www.brainscape.com",
+    "value": 1200000
+  },
+  {
+
+    "Name": "Appington",
+    "Location": "San Mateo",
+    "Website": "http://www.appington.com",
+    "value": 1200000
+  },
+  {
+
+    "Name": "LaunchPad Central",
+    "Location": "San Francisco",
+    "Website": "https://www.launchpadcentral.com/",
+    "value": 1200000
+  },
+  {
+
+    "Name": "Resource Guru",
+    "Location": "London",
+    "Website": "http://resourceguruapp.com",
+    "value": 1142000
+  },
+  {
+
+    "Name": "Satago",
+    "Location": "London",
+    "Website": "http://www.satago.co.uk",
+    "value": 1046500
+  },
+  {
+
+    "Name": "Lutebox",
+    "Location": "London",
+    "Website": "http://lutebox.com",
+    "value": 1000000
+  },
+  {
+
+    "Name": "ReTel Technologies",
+    "Location": "San Francisco",
+    "Website": "http://www.reteltechnologies.com",
+    "value": 1000000
+  },
+  {
+
+    "Name": "HybridCluster",
+    "Location": "Bristol",
+    "Website": "http://www.hybridcluster.com/",
+    "value": 1000000
+  },
+  {
+
+    "Name": "Keelvar",
+    "Location": "London",
+    "Website": "http://www.keelvar.com",
+    "value": 1000000
+  },
+  {
+
+    "Name": "Village Power Finance",
+    "Location": "Silicon Valley",
+    "Website": "http://www.villagepower.com",
+    "value": 1000000
+  },
+  {
+
+    "Name": "Agriwebb Pty",
+    "Location": "San Francisco",
+    "Website": "http://agriwebb.com/",
+    "value": 1000000
+  },
+  {
+
+    "Name": "Adludio",
+    "Location": "London",
+    "Website": "http://www.adludio.com",
+    "value": 1000000
+  },
+  {
+
+    "Name": "Dispatch",
+    "Location": "London",
+    "Website": "http://dispatch.pm",
+    "value": 1000000
+  },
+  {
+
+    "Name": "Provender",
+    "Location": "Canada",
+    "Website": "http://www.provender.com",
+    "value": 950000
+  },
+  {
+
+    "Name": "Safello",
+    "Location": "Stockholm",
+    "Website": "http://www.safello.com",
+    "value": 880000
+  },
+  {
+
+    "Name": "AirPOS",
+    "Location": "Belfast",
+    "Website": "http://www.airpointofsale.com",
+    "value": 786213
+  },
+  {
+
+    "Name": "Fliplet",
+    "Location": "London",
+    "Website": "http://www.fliplet.com",
+    "value": 757200
+  },
+  {
+
+    "Name": "Postmaster",
+    "Location": "Austin",
+    "Website": "https://www.postmaster.io",
+    "value": 718000
+  },
+  {
+
+    "Name": "The IF List",
+    "Location": "New York City",
+    "Website": "http://www.iflist.com",
+    "value": 629000
+  },
+  {
+
+    "Name": "Ambronite",
+    "Location": "Silicon Valley",
+    "Website": "http://ambronite.com/",
+    "value": 600000
+  },
+  {
+
+    "Name": "Formisimo",
+    "Location": "Manchester",
+    "Website": "http://www.formisimo.com",
+    "value": 586000
+  },
+  {
+
+    "Name": "Tandem",
+    "Location": "Orlando",
+    "Website": "http://www.intandem.io",
+    "value": 575000
+  },
+  {
+
+    "Name": "SketchDeck",
+    "Location": "Mountain View",
+    "Website": "http://sketchdeck.com",
+    "value": 540000
+  },
+  {
+
+    "Name": "Astar Pets",
+    "Location": "London",
+    "Website": "http://www.AstarPets.com",
+    "value": 530000
+  },
+  {
+
+    "Name": "SocialPicks",
+    "Location": "New York City",
+    "Website": "http://www.socialpicks.com/",
+    "value": 500000
+  },
+  {
+
+    "Name": "iSyndica",
+    "Location": "Singapore",
+    "Website": "http://www.isyndica.com",
+    "value": 500000
+  },
+  {
+
+    "Name": "Symfonie P2P",
+    "Location": "London",
+    "Website": "http://www.symfoniecapital.com",
+    "value": 450000
+  },
+  {
+
+    "Name": "KleverKid",
+    "Location": "New Delhi",
+    "Website": "http://www.kleverkid.in",
+    "value": 450000
+  },
+  {
+
+    "Name": "LendLayer",
+    "Location": "San Francisco",
+    "Website": "http://lendlayer.com/",
+    "value": 400000
+  },
+  {
+
+    "Name": "BluPods",
+    "Location": "San Francisco",
+    "Website": "http://www.blupods.com",
+    "value": 400000
+  },
+  {
+
+    "Name": "VibeWrite",
+    "Location": "Germany",
+    "Website": "http://www.vibewrite.com",
+    "value": 367000
+  },
+  {
+
+    "Name": "Race Yourself",
+    "Location": "San Francisco",
+    "Website": "http://www.raceyourself.com",
+    "value": 325000
+  },
+  {
+
+    "Name": "OkHi",
+    "Location": "London",
+    "Website": "http://www.okhi.com",
+    "value": 325000
+  },
+  {
+
+    "Name": "The Style Club",
+    "Location": "Los Angeles",
+    "Website": "http://www.thestyleclub.com",
+    "value": 300000
+  },
+  {
+
+    "Name": "Tugende",
+    "Location": "Kampala",
+    "Website": "http://www.TugendeDriven.com",
+    "value": 300000
+  },
+  {
+
+    "Name": "Purse",
+    "Location": "San Francisco",
+    "Website": "http://purse.io",
+    "value": 300000
+  },
+  {
+
+    "Name": "Zzish",
+    "Location": "London",
+    "Website": "http://www.zzish.com",
+    "value": 280000
+  },
+  {
+
+    "Name": "NaturalPath Media",
+    "Location": "San Francisco",
+    "Website": "http://www.saymedia.com",
+    "value": 250000
+  },
+  {
+
+    "Name": "EZ Education",
+    "Location": "Bath",
+    "Website": "http://www.ezeducation.co.uk",
+    "value": 225000
+  },
+  {
+
+    "Name": "YouCommentate",
+    "Location": "Singapore",
+    "Website": "http://www.youcommentate.com",
+    "value": 200000
+  },
+  {
+
+    "Name": "Lendable",
+    "Location": "Oakland",
+    "Website": "http://lendable.io",
+    "value": 175000
+  },
+  {
+
+    "Name": "Atlas Wearables",
+    "Location": "Austin",
+    "Website": "http://www.atlaswearables.com",
+    "value": 160000
+  },
+  {
+
+    "Name": "POLLION",
+    "Location": "Berlin",
+    "Website": "http://pollion.com",
+    "value": 120000
+  },
+  {
+
+    "Name": "Found Eats",
+    "Location": "San Francisco",
+    "Website": "http://www.foundeats.com/",
+    "value": 120000
+  },
+  {
+
+    "Name": "Harir",
+    "Location": "Jordan",
+    "Website": "http://www.harir.com",
+    "value": 101688
+  },
+  {
+
+    "Name": "Parkour Method",
+    "Location": "Washington, DC",
+    "Website": "http://www.parkourmethod.com",
+    "value": 100000
+  },
+  {
+
+    "Name": "Plutora",
+    "Location": "Mountain View",
+    "Website": "http://www.plutora.com",
+    "value": 100000
+  },
+  {
+
+    "Name": "Kili",
+    "Location": "Nairobi",
+    "Website": "http://kili.io",
+    "value": 100000
+  },
+  {
+
+    "Name": "MotionMetrics",
+    "Location": "London",
+    "Website": "http://www.motionmetrics.co",
+    "value": 100000
+  },
+  {
+
+    "Name": "e-NABLE Haiti",
+    "Location": "San Francisco",
+    "Website": "http://www.enablingthefuture.org",
+    "value": 100000
+  },
+  {
+
+    "Name": "Copyin",
+    "Location": "San Francisco",
+    "Website": "http://copyin.com",
+    "value": 90000
+  },
+  {
+
+    "Name": "makeena",
+    "Location": "Boulder",
+    "Website": "http://www.makeena.com",
+    "value": 76455
+  },
+  {
+
+    "Name": "Shake",
+    "Location": "Dublin",
+    "Website": "http://www.shake.io",
+    "value": 68000
+  },
+  {
+
+    "Name": "Memotify",
+    "Location": 0,
+    "Website": "http://www.emotify.com",
+    "value": 57300
+  },
+  {
+
+    "Name": "Piper",
+    "Location": "San Francisco",
+    "Website": "http://build.withpiper.com/",
+    "value": 50000
+  },
+  {
+
+    "Name": "Tank Top TV",
+    "Location": "London",
+    "Website": "http://movies.tanktop.tv",
+    "value": 49000
+  },
+  {
+
+    "Name": "Startist",
+    "Location": "New York City",
+    "Website": "http://www.startist.com",
+    "value": 40000
+  },
+  {
+
+    "Name": "Project Pen",
+    "Location": "Jordan",
+    "Website": "http://projectpen.com/",
+    "value": 40000
+  },
+  {
+
+    "Name": "Esplorio",
+    "Location": "Oxford",
+    "Website": "http://esplor.io",
+    "value": 33000
+  },
+  {
+
+    "Name": "Feather & Thread",
+    "Location": "San Francisco",
+    "Website": "http://www.featherandthread.com",
+    "value": 33000
+  },
+  {
+
+    "Name": "Coyno",
+    "Location": "Berlin",
+    "Website": "http://www.coyno.com",
+    "value": 31000
+  },
+  {
+
+    "Name": "Accomable",
+    "Location": "London",
+    "Website": "http://www.accomable.com",
+    "value": 30000
+  },
+  {
+
+    "Name": "wireLawyer",
+    "Location": "New York City",
+    "Website": "http://www.wirelawyer.com",
+    "value": 25000
+  },
+  {
+
+    "Name": "Stroll Health",
+    "Location": "San Francisco",
+    "Website": "http://www.strollhealth.com",
+    "value": 25000
+  },
+  {
+
+    "Name": "Saladshots",
+    "Location": "Los Angeles",
+    "Website": "http://www.saladshots.com",
+    "value": 25000
+  },
+  {
+
+    "Name": "Genomera",
+    "Location": "Silicon Valley",
+    "Website": "http://genomera.com",
+    "value": 20000
+  },
+  {
+
+    "Name": "Clickpass",
+    "Location": "San Francisco",
+    "Website": "http://www.clickpass.com",
+    "value": 20000
+  },
+  {
+
+    "Name": "Perfocal",
+    "Location": "London",
+    "Website": "http://www.perfocal.com",
+    "value": 16000
+  },
+  {
+    "College_ID": 6,
+    "College": "University College London",
+    "Name": "Deliveroo",
+    "Location": "London",
+    "Website": "http://deliveroo.co.uk",
+    "value": 996000
+  }]}

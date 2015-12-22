@@ -1,0 +1,1103 @@
+{
+"Name": "University of Cambridge",
+"rank": 1,
+"children": [  
+  {
+    "Name": "Deliveroo",
+    "Location": "London",
+    "Website": "http://deliveroo.co.uk",
+    "value": 99600000
+  },
+  {
+    "Name": "BuzzFeed",
+    "Location": "New York City",
+    "Website": "http://www.buzzfeed.com/",
+    "value": 96300000
+  },
+  {
+    "Name": "MyNewPlace",
+    "Location": "San Francisco",
+    "Website": "http://www.mynewplace.com/home?CID=KNL-google_ip-home-generic-brooklyn_park::mynewplace",
+    "value": 94400000
+  },
+  {
+    "Name": "Morningstar",
+    "Location": "Chicago",
+    "Website": "http://www.morningstar.com",
+    "value": 91000000
+  },
+  {
+    "Name": "Relationship Science",
+    "Location": "New York City",
+    "Website": "http://relsci.com",
+    "value": 90000000
+  },
+  {
+    "Name": "PatientKeeper",
+    "Location": "Waltham",
+    "Website": "http://www.patientkeeper.com",
+    "value": 86758700
+  },
+  {
+    "Name": "DisplayLink",
+    "Location": "Palo Alto",
+    "Website": "http://www.displaylink.com/",
+    "value": 86650000
+  },
+  {
+    "Name": "Bromium",
+    "Location": "Cupertino",
+    "Website": "http://www.bromium.com",
+    "value": 75800000
+  },
+  {
+    "Name": "OpenX",
+    "Location": "Pasadena",
+    "Website": "http://www.openx.org/",
+    "value": 75500000
+  },
+  {
+    "Name": "Netronome Systems",
+    "Location": "Santa Clara, CA",
+    "Website": "http://www.netronome.com",
+    "value": 73200000
+  },
+  {
+    "Name": "Birchbox",
+    "Location": "New York City",
+    "Website": "http://www.birchbox.com/",
+    "value": 71900000
+  },
+  {
+    "Name": "RealPage",
+    "Location": "San Francisco",
+    "Website": "http://www.realpage.com/",
+    "value": 66401577
+  },
+  {
+    "Name": "Shoedazzle",
+    "Location": "Los Angeles",
+    "Website": "http://www.shoedazzle.com/",
+    "value": 66000000
+  },
+  {
+    "Name": "viagogo",
+    "Location": "London",
+    "Website": "http://www.viagogo.com",
+    "value": 65000000
+  },
+  {
+    "Name": "Misfit",
+    "Location": "San Francisco",
+    "Website": "http://www.misfit.com",
+    "value": 64396675
+  },
+  {
+    "Name": "Zipcar",
+    "Location": "Cambridge, UK",
+    "Website": "http://www.zipcar.com",
+    "value": 60704370
+  },
+  {
+    "Name": "Lyst",
+    "Location": "London",
+    "Website": "http://www.Lyst.com",
+    "value": 60500000
+  },
+  {
+    "Name": "Light Blue Optics",
+    "Location": "Cambridge, UK",
+    "Website": "http://www.lightblueoptics.com",
+    "value": 57500000
+  },
+  {
+    "Name": "XMOS",
+    "Location": "Bristol",
+    "Website": "http://www.xmos.com/",
+    "value": 57390000
+  },
+  {
+    "Name": "Code42",
+    "Location": "Minneapolis",
+    "Website": "http://www.code42.com",
+    "value": 52500000
+  },
+  {
+    "Name": "Responsys",
+    "Location": "San Bruno",
+    "Website": "http://www.responsys.com/",
+    "value": 51900000
+  },
+  {
+    "Name": "Sonim Technologies",
+    "Location": "San Mateo",
+    "Website": "http://www.sonimtech.com",
+    "value": 46799998
+  },
+  {
+    "Name": "WorldRemit",
+    "Location": "London",
+    "Website": "http://www.worldremit.com",
+    "value": 45546000
+  },
+  {
+    "Name": "Cornerstone OnDemand",
+    "Location": "Santa Monica",
+    "Website": "http://www.cornerstoneondemand.com/",
+    "value": 44700000
+  },
+  {
+    "Name": "MeLLmo",
+    "Location": "Solana Beach",
+    "Website": "http://www.roambi.com/",
+    "value": 44000000
+  },
+  {
+    "Name": "Rakuten",
+    "Location": "Tokyo",
+    "Website": "http://www.rakuten.co.jp",
+    "value": 42400000
+  },
+  {
+    "Name": "BitTorrent",
+    "Location": "San Francisco",
+    "Website": "http://www.bittorrent.com/",
+    "value": 40750000
+  },
+  {
+    "Name": "Splunk",
+    "Location": "San Francisco",
+    "Website": "http://www.splunk.com/",
+    "value": 40000000
+  },
+  {
+    "Name": "Synthetic Genomics",
+    "Location": "La Jolla, Ca",
+    "Website": "http://www.syntheticgenomics.com",
+    "value": 40000000
+  },
+  {
+    "Name": "Huddle",
+    "Location": "London",
+    "Website": "http://www.huddle.com",
+    "value": 38200000
+  },
+  {
+    "Name": "PlayFirst",
+    "Location": "San Francisco",
+    "Website": "http://www.playfirst.com/",
+    "value": 37700000
+  },
+  {
+    "Name": "Anthemis Group",
+    "Location": "Malta",
+    "Website": "http://www.anthemis.com/#/home",
+    "value": 35100000
+  },
+  {
+    "Name": "MySpace",
+    "Location": "Beverly Hills",
+    "Website": "http://myspace.com",
+    "value": 35000000
+  },
+  {
+    "Name": "Epocrates",
+    "Location": "San Mateo",
+    "Website": "http://www.epocrates.com",
+    "value": 35000000
+  },
+  {
+    "Name": "Techstars",
+    "Location": "Boulder",
+    "Website": "http://techstars.com",
+    "value": 34000000
+  },
+  {
+    "Name": "Vringo",
+    "Location": "New York City",
+    "Website": "http://www.vringo.com",
+    "value": 33632000
+  },
+  {
+    "Name": "Technorati",
+    "Location": "San Francisco",
+    "Website": "http://technorati.com",
+    "value": 32100000
+  },
+  {
+    "Name": "Wonga",
+    "Location": "London",
+    "Website": "https://www.wonga.com/",
+    "value": 28250000
+  },
+  {
+    "Name": "Lockheed Martin",
+    "Location": "Bethesda",
+    "Website": "http://www.lockheedmartin.com",
+    "value": 27400000
+  },
+  {
+    "Name": "Tideway",
+    "Location": "London",
+    "Website": "http://www.tideway.com",
+    "value": 27000000
+  },
+  {
+    "Name": "Credit Benchmark",
+    "Location": "London",
+    "Website": "http://www.creditbenchmark.org",
+    "value": 27000000
+  },
+  {
+    "Name": "Devicescape",
+    "Location": "San Bruno",
+    "Website": "http://www.devicescape.com",
+    "value": 26800000
+  },
+  {
+    "Name": "Sapient",
+    "Location": "Boston",
+    "Website": "http://www.sapient.com/",
+    "value": 25800000
+  },
+  {
+    "Name": "Skimlinks",
+    "Location": "London",
+    "Website": "http://www.skimlinks.com",
+    "value": 25320000
+  },
+  {
+    "Name": "Nvidia",
+    "Location": "Santa Clara, CA",
+    "Website": "http://www.nvidia.com",
+    "value": 25000000
+  },
+  {
+    "Name": "SNOCAP",
+    "Location": "San Francisco",
+    "Website": "http://snocap.com",
+    "value": 25000000
+  },
+  {
+    "Name": "AngelList",
+    "Location": "San Francisco",
+    "Website": "http://angel.co",
+    "value": 24000000
+  },
+  {
+    "Name": "Covestor",
+    "Location": "Boston",
+    "Website": "http://www.covestor.com",
+    "value": 23850000
+  },
+  {
+    "Name": "UGOBE",
+    "Location": "Eagle",
+    "Website": "http://www.pleoworld.com",
+    "value": 23250000
+  },
+  {
+    "Name": "Apartment List",
+    "Location": "San Francisco",
+    "Website": "http://www.apartmentlist.com/",
+    "value": 23000000
+  },
+  {
+    "Name": "Algolia",
+    "Location": "San Francisco",
+    "Website": "http://www.algolia.com",
+    "value": 21100000
+  },
+  {
+    "Name": "Salesforce",
+    "Location": "San Francisco",
+    "Website": "http://www.salesforce.com/",
+    "value": 21000000
+  },
+  {
+    "Name": "MarketInvoice",
+    "Location": "London",
+    "Website": "http://www.marketinvoice.com",
+    "value": 17500000
+  },
+  {
+    "Name": "Bridgeport Networks",
+    "Location": "Chicago Heights",
+    "Website": 0,
+    "value": 13000000
+  },
+  {
+    "Name": "Carnegie Mellon University",
+    "Location": "Pittsburgh",
+    "Website": "http://www.cmu.edu/index.shtml",
+    "value": 17100000
+  },
+  {
+    "Name": "SyndicateRoom",
+    "Location": "Cambridge, UK",
+    "Website": "http://www.syndicateroom.com",
+    "value": 16600000
+  },
+  {
+    "Name": "Songkick",
+    "Location": "London",
+    "Website": "http://songkick.com",
+    "value": 16515000
+  },
+  {
+    "Name": "Causes",
+    "Location": "San Francisco",
+    "Website": "http://causes.com",
+    "value": 16350000
+  },
+  {
+    "Name": "Activate Networks",
+    "Location": "Newton",
+    "Website": "http://activatenetworks.net",
+    "value": 16000000
+  },
+  {
+    "Name": "onefinestay",
+    "Location": "London",
+    "Website": "http://www.onefinestay.com",
+    "value": 15900000
+  },
+  {
+    "Name": "Azimo",
+    "Location": 0,
+    "Website": "https://azimo.com/en/",
+    "value": 11000000
+  },
+  {
+    "Name": "Expect Labs",
+    "Location": "San Francisco",
+    "Website": "http://www.expectlabs.com/",
+    "value": 15400000
+  },
+  {
+    "Name": "Sosh",
+    "Location": "San Francisco",
+    "Website": "http://sosh.com/",
+    "value": 15100000
+  },
+  {
+    "Name": "Mindjet",
+    "Location": "San Francisco",
+    "Website": "http://www.mindjet.com",
+    "value": 15000000
+  },
+  {
+    "Name": "Kano",
+    "Location": "London",
+    "Website": "http://kano.me",
+    "value": 15000000
+  },
+  {
+    "Name": "Resilient Network Systems",
+    "Location": "San Francisco",
+    "Website": "http://www.resilient-networks.com",
+    "value": 14900000
+  },
+  {
+    "Name": "Zumper",
+    "Location": "San Francisco",
+    "Website": "https://www.zumper.com",
+    "value": 14550000
+  },
+  {
+    "Name": "Outside.in",
+    "Location": "New York City",
+    "Website": "http://outside.in",
+    "value": 14400000
+  },
+  {
+    "Name": "Idle Games",
+    "Location": "San Francisco",
+    "Website": "http://www.idle-games.com",
+    "value": 14099999
+  },
+  {
+    "Name": "Swoopo",
+    "Location": "Mountain View",
+    "Website": "http://www.swoopo.com",
+    "value": 14000000
+  },
+  {
+    "Name": "Array Health Solutions",
+    "Location": "Seattle, Wa",
+    "Website": "http://arrayhealth.com",
+    "value": 13425000
+  },
+  {
+    "Name": "Skycatch",
+    "Location": "San Francisco",
+    "Website": "http://www.skycatch.com",
+    "value": 13300000
+  },
+  {
+    "Name": "BetterDoctor",
+    "Location": "San Francisco",
+    "Website": "http://BetterDoctor.com",
+    "value": 13125000
+  },
+  {
+    "Name": "Aperia Technologies",
+    "Location": "Burlingame",
+    "Website": "http://aperiatech.com",
+    "value": 12900000
+  },
+  {
+    "Name": "EdgeSpring",
+    "Location": "San Mateo, Ca",
+    "Website": "http://www.edgespring.com",
+    "value": 12700000
+  },
+  {
+    "Name": "News",
+    "Location": "New York City",
+    "Website": "http://www.newscorp.com/",
+    "value": 12500000
+  },
+  {
+    "Name": "BaubleBar",
+    "Location": "New York City",
+    "Website": "http://www.baublebar.com/",
+    "value": 11100000
+  },
+  {
+    "Name": "ChowNow",
+    "Location": "Los Angeles",
+    "Website": "http://www.ChowNow.com",
+    "value": 11000000
+  },
+  {
+    "Name": "WAYN",
+    "Location": "London",
+    "Website": "http://www.wayn.com",
+    "value": "£11,000,000"
+  },
+  {
+    "Name": "Sulia",
+    "Location": "New York City",
+    "Website": "http://www.sulia.com/",
+    "value": 11000000
+  },
+  {
+    "Name": "DroneDeploy",
+    "Location": "San Francisco",
+    "Website": "http://www.dronedeploy.com",
+    "value": 11000000
+  },
+  {
+    "Name": "BookBub",
+    "Location": "Cambridge, MA",
+    "Website": "http://www.bookbub.com",
+    "value": 10800000
+  },
+  {
+    "Name": "Y Combinator",
+    "Location": "Mountain View",
+    "Website": "http://www.ycombinator.com",
+    "value": 10250000
+  },
+  {
+    "Name": "Convio",
+    "Location": "Austin",
+    "Website": "http://www.convio.com/",
+    "value": 10150000
+  },
+  {
+    "Name": "ClassDojo",
+    "Location": "San Francisco",
+    "Website": "http://www.classdojo.com/",
+    "value": 10100000
+  },
+  {
+    "Name": "Moo",
+    "Location": "London",
+    "Website": "http://www.moo.com",
+    "value": 10000000
+  },
+  {
+    "Name": "PeoplePerHour",
+    "Location": "New York City",
+    "Website": "http://www.peopleperhour.com",
+    "value": 10000000
+  },
+  {
+    "Name": "Smart Destinations",
+    "Location": "Boston",
+    "Website": "http://www.smartdestinations.com",
+    "value": 10000000
+  },
+  {
+    "Name": "mBloom",
+    "Location": "Maui",
+    "Website": "http://www.mbloom.com/",
+    "value": 10000000
+  },
+  {
+    "Name": "Zoopla",
+    "Location": "London",
+    "Website": "http://www.zoopla.co.uk/",
+    "value": 9940000
+  },
+  {
+    "Name": "Kiva",
+    "Location": "San Francisco",
+    "Website": "http://kiva.org",
+    "value": 9000000
+  },
+  {
+    "Name": "Siemens",
+    "Location": "Munich",
+    "Website": "http://www.siemens.com",
+    "value": 8900000
+  },
+  {
+    "Name": "Synthego",
+    "Location": "Redwood City",
+    "Website": "http://www.synthego.com",
+    "value": 8800000
+  },
+  {
+    "Name": "Rangespan",
+    "Location": 0,
+    "Website": "http://www.rangespan.com",
+    "value": 5000000
+  },
+  {
+    "Name": "Duke University",
+    "Location": "Durham",
+    "Website": "http://www.duke.edu/",
+    "value": 8700000
+  },
+  {
+    "Name": "Enlitic",
+    "Location": "San Francisco",
+    "Website": 0,
+    "value": 5000000
+  },
+  {
+    "Name": "Bugsnag",
+    "Location": "San Francisco",
+    "Website": "https://bugsnag.com",
+    "value": 8600000
+  },
+  {
+    "Name": "Swoon Editions",
+    "Location": "London",
+    "Website": "http://swooneditions.com",
+    "value": 8600000
+  },
+  {
+    "Name": "Trumaker",
+    "Location": "San Francisco",
+    "Website": "http://www.trumaker.com",
+    "value": 8400000
+  },
+  {
+    "Name": "RecargaPay",
+    "Location": "Buenos Aires",
+    "Website": "http://recargapay.com",
+    "value": 8053334
+  },
+  {
+    "Name": "C12 Energy",
+    "Location": 0,
+    "Website": "http://c12energy.com",
+    "value": 4500000
+  },
+  {
+    "Name": "Flux Factory",
+    "Location": "San Francisco",
+    "Website": "http://flux.io",
+    "value": 8000000
+  },
+  {
+    "Name": "Heyzap",
+    "Location": "San Francisco",
+    "Website": "http://www.heyzap.com",
+    "value": 7980000
+  },
+  {
+    "Name": "WI",
+    "Location": "San Francisco",
+    "Website": "http://www.wi.co",
+    "value": 7900000
+  },
+  {
+    "Name": "EnerNoc",
+    "Location": "Boston",
+    "Website": "http://www.enernoc.com",
+    "value": 7750000
+  },
+  {
+    "Name": "Boxed",
+    "Location": "New York City",
+    "Website": "http://www.boxed.com",
+    "value": 7600000
+  },
+  {
+    "Name": "Kaiser Permanente",
+    "Location": "Oakland",
+    "Website": "https://www.kaiserpermanente.org/",
+    "value": 7400000
+  },
+  {
+    "Name": "Redbeacon",
+    "Location": "San Mateo",
+    "Website": "http://www.redbeacon.com",
+    "value": 7400000
+  },
+  {
+    "Name": "EyeNetra",
+    "Location": "Boston",
+    "Website": "http://www.eyenetra.com",
+    "value": 7000000
+  },
+  {
+    "Name": "Yahoo",
+    "Location": "Sunnyvale",
+    "Website": "http://www.yahoo.com",
+    "value": 6800000
+  },
+  {
+    "Name": "Seedcamp",
+    "Location": "London",
+    "Website": "http://www.seedcamp.com",
+    "value": 6764900
+  },
+  {
+    "Name": "eBay",
+    "Location": "San Jose",
+    "Website": "http://www.ebay.com",
+    "value": 6700000
+  },
+  {
+    "Name": "Intuit",
+    "Location": "Mountain View",
+    "Website": "http://www.intuit.com/",
+    "value": 6700000
+  },
+  {
+    "Name": "Snips",
+    "Location": "Paris",
+    "Website": "http://www.snips.net",
+    "value": 6300000
+  },
+  {
+    "Name": "JustPark",
+    "Location": "London",
+    "Website": "https://www.justpark.com",
+    "value": 6250000
+  },
+  {
+    "Name": "Pixable",
+    "Location": "New York City",
+    "Website": "http://www.pixable.com",
+    "value": 6100026
+  },
+  {
+    "Name": "Masabi",
+    "Location": "London",
+    "Website": "http://www.masabi.com",
+    "value": 6000000
+  },
+  {
+    "Name": "Fnbox",
+    "Location": "Buenos Aires",
+    "Website": "http://www.fnbox.com",
+    "value": 6000000
+  },
+  {
+    "Name": "Tipbit",
+    "Location": "San Francisco",
+    "Website": "https://www.tipbit.com/",
+    "value": 5950000
+  },
+  {
+    "Name": "Acunu",
+    "Location": "London",
+    "Website": "http://www.acunu.com",
+    "value": 5800000
+  },
+  {
+    "Name": "Origami Energy",
+    "Location": "Cambridge, UK",
+    "Website": "http://www.origamienergy.com",
+    "value": 5800000
+  },
+  {
+    "Name": "import.io",
+    "Location": "London",
+    "Website": "http://import.io",
+    "value": 5600000
+  },
+  {
+    "Name": "Cover",
+    "Location": "New York City",
+    "Website": "http://www.paywithcover.com/",
+    "value": 5500000
+  },
+  {
+    "Name": "OpenSignal",
+    "Location": "London",
+    "Website": "http://opensignal.com",
+    "value": 5300000
+  },
+  {
+    "Name": "NetSpend",
+    "Location": "Austin",
+    "Website": "http://netspend.com",
+    "value": 5300000
+  },
+  {
+    "Name": "Indeed",
+    "Location": "Austin",
+    "Website": "http://www.indeed.com",
+    "value": 5000000
+  },
+  {
+    "Name": "TrustRadius",
+    "Location": "Austin",
+    "Website": "http://www.trustradius.com",
+    "value": 5000000
+  },
+  {
+    "Name": "OneTraction",
+    "Location": "Silicon Valley",
+    "Website": "http://onetraction.com/",
+    "value": 5000000
+  },
+  {
+    "Name": "Karma",
+    "Location": "New York City",
+    "Website": "http://yourkarma.com",
+    "value": 4830000
+  },
+  {
+    "Name": "GoCardless",
+    "Location": "London",
+    "Website": "https://gocardless.com/",
+    "value": 4800000
+  },
+  {
+    "Name": "Locu",
+    "Location": "San Francisco",
+    "Website": "http://locu.com",
+    "value": 4643000
+  },
+  {
+    "Name": "Onfido",
+    "Location": "London",
+    "Website": "https://onfido.com/",
+    "value": 4500000
+  },
+  {
+    "Name": "Shake",
+    "Location": "New York City",
+    "Website": "http://www.shakelaw.com",
+    "value": 4000000
+  },
+  {
+    "Name": "RidePal",
+    "Location": "San Francisco",
+    "Website": "http://www.ridepal.com",
+    "value": 3700000
+  },
+  {
+    "Name": "Clicks2Customers",
+    "Location": "Cape Town",
+    "Website": "http://www.clicks2customers.com",
+    "value": 3700000
+  },
+  {
+    "Name": "Festicket",
+    "Location": "London",
+    "Website": "http://www.festicket.com",
+    "value": 3460000
+  },
+  {
+    "Name": "BagThat",
+    "Location": 0,
+    "Website": "http://www.BagThat.com",
+    "value": 1250000
+  },
+  {
+    "Name": "Kabbee",
+    "Location": "London",
+    "Website": "http://www.kabbee.com",
+    "value": 3250000
+  },
+  {
+    "Name": "fanatix",
+    "Location": "London",
+    "Website": "http://www.fanatix.com",
+    "value": 3000000
+  },
+  {
+    "Name": "Clearpath Immigration",
+    "Location": "New York City",
+    "Website": "http://www.clearpathimmigration.com",
+    "value": 3000000
+  },
+  {
+    "Name": "Funding Options",
+    "Location": "London",
+    "Website": "https://www.fundingoptions.com/",
+    "value": 3000000
+  },
+  {
+    "Name": "The Assets",
+    "Location": "Paris",
+    "Website": "http://theassets.co/",
+    "value": 3000000
+  },
+  {
+    "Name": "Volumental",
+    "Location": "Stockholm",
+    "Website": "http://volumental.com",
+    "value": 3000000
+  },
+  {
+    "Name": "PeerIndex",
+    "Location": "London",
+    "Website": "http://www.peerindex.com",
+    "value": 2900000
+  },
+  {
+    "Name": "Standard Treasury",
+    "Location": "San Francisco",
+    "Website": "http://www.standardtreasury.com",
+    "value": 2700000
+  },
+  {
+    "Name": "Ometria",
+    "Location": "London",
+    "Website": "http://www.ometria.com",
+    "value": 2600000
+  },
+  {
+    "Name": "Swift Navigation",
+    "Location": "San Francisco",
+    "Website": "http://swiftnav.com/",
+    "value": 2600000
+  },
+  {
+    "Name": "GeoSpock",
+    "Location": "Cambridge, UK",
+    "Website": "http://www.geospock.com",
+    "value": 2545000
+  },
+  {
+    "Name": "Cisco",
+    "Location": "San Jose",
+    "Website": "http://www.cisco.com",
+    "value": 2500000
+  },
+  {
+    "Name": "Wise.io",
+    "Location": "Berkeley",
+    "Website": "http://wise.io",
+    "value": 2500000
+  },
+  {
+    "Name": "Sourcery",
+    "Location": "San Francisco",
+    "Website": "http://www.getsourcery.com",
+    "value": 2500000
+  },
+  {
+    "Name": "TIM Group",
+    "Location": "London",
+    "Website": "http://www.timgroup.com",
+    "value": 2400000
+  },
+  {
+    "Name": "Depict",
+    "Location": "San Francisco",
+    "Website": "http://depict.com",
+    "value": 2400000
+  },
+  {
+    "Name": "Gablit",
+    "Location": "San Francisco",
+    "Website": "http://www.gablit.com",
+    "value": 2335000
+  },
+  {
+    "Name": "Infinit",
+    "Location": "Paris",
+    "Website": "http://www.infinit.io",
+    "value": 2258000
+  },
+  {
+    "Name": "echoecho",
+    "Location": "Los Angeles",
+    "Website": "http://www.echoecho.me",
+    "value": 2250000
+  },
+  {
+    "Name": "Moonfruit",
+    "Location": "London",
+    "Website": "http://www.moonfruit.com",
+    "value": 2250000
+  },
+  {
+    "Name": "WILDFANG",
+    "Location": "Portland",
+    "Website": "http://www.wildfang.com",
+    "value": 2250000
+  },
+  {
+    "Name": "ZeroFOX",
+    "Location": "Baltimore",
+    "Website": "http://zerofox.com",
+    "value": 2200000
+  },
+  {
+    "Name": "Mendeley",
+    "Location": "London",
+    "Website": "http://www.mendeley.com",
+    "value": 2125000
+  },
+  {
+    "Name": "General Electric",
+    "Location": "Fairfield, CT",
+    "Website": "http://www.ge.com",
+    "value": 2000000
+  },
+  {
+    "Name": "Framed Data",
+    "Location": "San Francisco",
+    "Website": "http://www.framed.io",
+    "value": 2000000
+  },
+  {
+    "Name": "Elliptic",
+    "Location": "London",
+    "Website": "http://elliptic.co",
+    "value": 2000000
+  },
+  {
+    "Name": "Notion",
+    "Location": "Colorado",
+    "Website": "http://getnotion.com",
+    "value": 2000000
+  },
+  {
+    "Name": "Health Gorilla",
+    "Location": "Sunnyvale",
+    "Website": "http://www.healthgorilla.com",
+    "value": 1925000
+  },
+  {
+    "Name": "Zephyrus Biosciences",
+    "Location": "Berkeley",
+    "Website": "http://www.zephyrusbio.com",
+    "value": 1860000
+  },
+  {
+    "Name": "Code Kingdoms",
+    "Location": "London",
+    "Website": "http://codekingdoms.com",
+    "value": 1810000
+  },
+  {
+    "Name": "Embue",
+    "Location": "Boston",
+    "Website": "http://embue.com",
+    "value": 1750000
+  },
+  {
+    "Name": "Holidog",
+    "Location": "San Francisco",
+    "Website": "http://www.holidog.com",
+    "value": 1710000
+  },
+  {
+    "Name": "3BaysOver",
+    "Location": "Switzerland",
+    "Website": "http://www.3baysover.com",
+    "value": 1675000
+  },
+  {
+    "Name": "What's in My Handbag",
+    "Location": "London",
+    "Website": "http://www.whatsinmyhandbag.com",
+    "value": 1600000
+  },
+  {
+    "Name": "Touch Surgery",
+    "Location": "London",
+    "Website": "https://www.touchsurgery.com",
+    "value": 1500000
+  },
+  {
+    "Name": "Fitmo",
+    "Location": "Amsterdam",
+    "Website": "http://www.fitmo.com",
+    "value": 1500000
+  },
+  {
+    "Name": "Propel(x)",
+    "Location": "San Francisco",
+    "Website": "http://www.propelx.com/",
+    "value": 1500000
+  },
+  {
+    "Name": "RealityMine",
+    "Location": "Manchester",
+    "Website": "http://www.realitymine.com",
+    "value": 1500000
+  },
+  {
+    "Name": "QuickSchools",
+    "Location": "Sunnyvale",
+    "Website": "http://www.quickschools.com",
+    "value": 1400000
+  },
+  {
+    "Name": "Deeplink",
+    "Location": "New York City",
+    "Website": "http://www.deeplink.me",
+    "value": 1350000
+  },
+  {
+    "Name": "Expii",
+    "Location": "Pittsburgh",
+    "Website": "https://www.expii.com",
+    "value": 1310000
+  },
+  {
+    "Name": "Qnary",
+    "Location": "New York City",
+    "Website": "http://www.qnary.com",
+    "value": 1300000
+  },
+  {
+    "Name": "VocalIQ",
+    "Location": "Cambridge, UK",
+    "Website": "http://vocaliq.com",
+    "value": 1287000
+  },
+  {
+    "Name": "Decision Fuel",
+    "Location": "Hong Kong",
+    "Website": "http://www.decision-fuel.com",
+    "value": 1250000
+  },
+  {
+    "Name": "StreetHub",
+    "Location": "London",
+    "Website": "http://www.streethub.com",
+    "value": 1200000
+  },
+  {
+    "Name": "Riddle",
+    "Location": "San Francisco",
+    "Website": "http://www.riddle.com",
+    "value": 1200000
+  }]
+}
