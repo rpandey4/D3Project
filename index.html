@@ -51,6 +51,7 @@
 		  data-width="450"
 		  data-show-faces="true">
 	</div>
+
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container-fluid">
         <div class="navbar-header">
@@ -145,6 +146,14 @@ Holder.add_theme("white", { background:"#fff", foreground:"#a7a7a7", size:10 });
 <script type="text/javascript" src="../../assets/js/meta.js"></script>
 
 </body>
+<script>
+app.get('/webhook/', function (req, res) {
+  if (req.query['hub.verify_token'] === 'themanwhoknewinfinity') {
+    res.send(req.query['hub.challenge']);
+  }
+  res.send('Error, wrong validation token');
+})
+</script>
 <script>
 
 var width = 960,
